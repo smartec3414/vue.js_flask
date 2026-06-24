@@ -1,4 +1,4 @@
-# Developing a Single Page App with Flask and Vue.js
+# Developing a Single Page App with Flask and Vue.js 
 
 ### Want to learn how to build this?
 
